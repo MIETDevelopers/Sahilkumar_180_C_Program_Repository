@@ -1,3 +1,5 @@
+//Author:Sahil kumar
+//Date:28 march 2021
 #include<stdio.h>//include standard header file
 #include<math.h>//include math library
 int main(){// main function body
