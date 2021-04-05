@@ -1,16 +1,5 @@
-<<<<<<< HEAD
-#include<stdio.h>
-int main(){
-	int num;
-	printf("Enter an integer : ");
-	scanf("%d", &num);
-    if ( num%2 == 0)
-     printf("%d is an even.", num);
-    else
-     printf("%d is an odd.",num);
-    return 0;  
-}
-=======
+//Author: Sahil kumar
+//Date: 28 March 2021
 #include<stdio.h>//include standard input and output header file
 int main(){//main function body
 	int num;//deceleartion
@@ -22,4 +11,3 @@ int main(){//main function body
      printf("%d is an odd.",num);//printing output if number input by user is odd 
     return 0; //return statement 
 }// end of main function body
->>>>>>> 8d2ace86003ffc2d70af136e5fdcf27b5f949ed7
