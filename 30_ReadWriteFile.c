@@ -34,7 +34,7 @@ int main(int argc, char const *argv[]) // varaiable decleration
 {
 /* code */
 if (argc < 3){
-printf("Please specify the CSV file as an input.\n");
+printf("Please specify the CSV file as an input.\n");//printing the output 
 exit(0);
 }
 
